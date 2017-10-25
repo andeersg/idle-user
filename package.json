@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name" : "Anders Grendstadbakk",
+    "email" : "anders.2205@gmail.com",
+    "url" : "https://andeers.com"
+  },
   "license": "MIT"
 }
